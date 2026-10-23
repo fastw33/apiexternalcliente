@@ -1,0 +1,416 @@
+{
+  "origen": "Maestra de prefijos de Genika",
+  "actualizado_at": "2026-10-19T19:37:03.725Z",
+  "prefijos": [
+    {
+      "id_prefijo": "YUT",
+      "nombre": "Yutes",
+      "prefijo": "YUT",
+      "tipo": "Bodega"
+    },
+    {
+      "id_prefijo": "ROL",
+      "nombre": "Rollos",
+      "prefijo": "ROL",
+      "tipo": "Bodega"
+    },
+    {
+      "id_prefijo": "PAL",
+      "nombre": "Pallets",
+      "prefijo": "PAL",
+      "tipo": "Bodega"
+    },
+    {
+      "id_prefijo": "CAJ",
+      "nombre": "Cajas",
+      "prefijo": "CAJ",
+      "tipo": "Bodega"
+    },
+    {
+      "id_prefijo": "UNI",
+      "nombre": "Unitario",
+      "prefijo": "UNI",
+      "tipo": "Bodega"
+    },
+    {
+      "id_prefijo": "EXT",
+      "nombre": "Extradimensionado",
+      "prefijo": "EXT",
+      "tipo": "Bodega"
+    },
+    {
+      "id_prefijo": "BUL",
+      "nombre": "Bultos",
+      "prefijo": "BUL",
+      "tipo": "Bodega"
+    },
+    {
+      "id_prefijo": "GUA",
+      "nombre": "Guacales",
+      "prefijo": "GUA",
+      "tipo": "Bodega"
+    },
+    {
+      "id_prefijo": "W1_L",
+      "nombre": "W-74 Bujes — Limpio",
+      "prefijo": "RS-W1-L",
+      "tipo": "RS"
+    },
+    {
+      "id_prefijo": "W1_S",
+      "nombre": "W-74 Bujes — Sucio",
+      "prefijo": "RS-W1-S",
+      "tipo": "RS"
+    },
+    {
+      "id_prefijo": "W2_L",
+      "nombre": "W-74 Insertos — Limpio",
+      "prefijo": "RS-W2-L",
+      "tipo": "RS"
+    },
+    {
+      "id_prefijo": "W2_S",
+      "nombre": "W-74 Insertos — Sucio",
+      "prefijo": "RS-W2-S",
+      "tipo": "RS"
+    },
+    {
+      "id_prefijo": "W3_L",
+      "nombre": "W-74 Puntas de broca con soldadura — Limpio",
+      "prefijo": "RS-W3-L",
+      "tipo": "RS"
+    },
+    {
+      "id_prefijo": "W3_S",
+      "nombre": "W-74 Puntas de broca con soldadura — Sucio",
+      "prefijo": "RS-W3-S",
+      "tipo": "RS"
+    },
+    {
+      "id_prefijo": "W4_L",
+      "nombre": "W-74 Puntas de broca limpia — Limpio",
+      "prefijo": "RS-W4-L",
+      "tipo": "RS"
+    },
+    {
+      "id_prefijo": "W4_S",
+      "nombre": "W-74 Puntas de broca limpia — Sucio",
+      "prefijo": "RS-W4-S",
+      "tipo": "RS"
+    },
+    {
+      "id_prefijo": "W5_L",
+      "nombre": "W-74 Brocas escareadores — Limpio",
+      "prefijo": "RS-W5-L",
+      "tipo": "RS"
+    },
+    {
+      "id_prefijo": "W5_S",
+      "nombre": "W-74 Brocas escareadores — Sucio",
+      "prefijo": "RS-W5-S",
+      "tipo": "RS"
+    },
+    {
+      "id_prefijo": "W6_L",
+      "nombre": "W-74 Rollos de Morgan — Limpio",
+      "prefijo": "RS-W6-L",
+      "tipo": "RS"
+    },
+    {
+      "id_prefijo": "W6_S",
+      "nombre": "W-74 Rollos de Morgan — Sucio",
+      "prefijo": "RS-W6-S",
+      "tipo": "RS"
+    },
+    {
+      "id_prefijo": "W7_L",
+      "nombre": "W-74 Discos de corte — Limpio",
+      "prefijo": "RS-W7-L",
+      "tipo": "RS"
+    },
+    {
+      "id_prefijo": "W7_S",
+      "nombre": "W-74 Discos de corte — Sucio",
+      "prefijo": "RS-W7-S",
+      "tipo": "RS"
+    },
+    {
+      "id_prefijo": "W8_L",
+      "nombre": "W-74 Viruta / Moledura / Pulido — Limpio",
+      "prefijo": "RS-W8-L",
+      "tipo": "RS"
+    },
+    {
+      "id_prefijo": "W8_S",
+      "nombre": "W-74 Viruta / Moledura / Pulido — Sucio",
+      "prefijo": "RS-W8-S",
+      "tipo": "RS"
+    },
+    {
+      "id_prefijo": "W9_L",
+      "nombre": "W-74 Lodos de tungsteno — Limpio",
+      "prefijo": "RS-W9-L",
+      "tipo": "RS"
+    },
+    {
+      "id_prefijo": "W9_S",
+      "nombre": "W-74 Lodos de tungsteno — Sucio",
+      "prefijo": "RS-W9-S",
+      "tipo": "RS"
+    },
+    {
+      "id_prefijo": "W10_L",
+      "nombre": "W-74 Broca matrix — Limpio",
+      "prefijo": "RS-W10-L",
+      "tipo": "RS"
+    },
+    {
+      "id_prefijo": "W10_S",
+      "nombre": "W-74 Broca matrix — Sucio",
+      "prefijo": "RS-W10-S",
+      "tipo": "RS"
+    },
+    {
+      "id_prefijo": "NI1_L",
+      "nombre": "Ni-28 Varilla 718 — Limpio",
+      "prefijo": "RS-NI1-L",
+      "tipo": "RS"
+    },
+    {
+      "id_prefijo": "NI1_S",
+      "nombre": "Ni-28 Varilla 718 — Sucio",
+      "prefijo": "RS-NI1-S",
+      "tipo": "RS"
+    },
+    {
+      "id_prefijo": "NI2_L",
+      "nombre": "Ni-28 Varilla Monel K500 — Limpio",
+      "prefijo": "RS-NI2-L",
+      "tipo": "RS"
+    },
+    {
+      "id_prefijo": "NI2_S",
+      "nombre": "Ni-28 Varilla Monel K500 — Sucio",
+      "prefijo": "RS-NI2-S",
+      "tipo": "RS"
+    },
+    {
+      "id_prefijo": "NI3_L",
+      "nombre": "Ni-28 Varilla Nitronic 50 — Limpio",
+      "prefijo": "RS-NI3-L",
+      "tipo": "RS"
+    },
+    {
+      "id_prefijo": "NI3_S",
+      "nombre": "Ni-28 Varilla Nitronic 50 — Sucio",
+      "prefijo": "RS-NI3-S",
+      "tipo": "RS"
+    },
+    {
+      "id_prefijo": "NI4_L",
+      "nombre": "Ni-28 Varilla Inco 625 — Limpio",
+      "prefijo": "RS-NI4-L",
+      "tipo": "RS"
+    },
+    {
+      "id_prefijo": "NI4_S",
+      "nombre": "Ni-28 Varilla Inco 625 — Sucio",
+      "prefijo": "RS-NI4-S",
+      "tipo": "RS"
+    },
+    {
+      "id_prefijo": "NI5_L",
+      "nombre": "Ni-28 Puntas de varilla Alloy 400 — Limpio",
+      "prefijo": "RS-NI5-L",
+      "tipo": "RS"
+    },
+    {
+      "id_prefijo": "NI5_S",
+      "nombre": "Ni-28 Puntas de varilla Alloy 400 — Sucio",
+      "prefijo": "RS-NI5-S",
+      "tipo": "RS"
+    },
+    {
+      "id_prefijo": "NI6_L",
+      "nombre": "Ni-28 Partes y piezas K500 — Limpio",
+      "prefijo": "RS-NI6-L",
+      "tipo": "RS"
+    },
+    {
+      "id_prefijo": "NI6_S",
+      "nombre": "Ni-28 Partes y piezas K500 — Sucio",
+      "prefijo": "RS-NI6-S",
+      "tipo": "RS"
+    },
+    {
+      "id_prefijo": "NI7_L",
+      "nombre": "Ni-28 Piezas y partes 718 — Limpio",
+      "prefijo": "RS-NI7-L",
+      "tipo": "RS"
+    },
+    {
+      "id_prefijo": "NI7_S",
+      "nombre": "Ni-28 Piezas y partes 718 — Sucio",
+      "prefijo": "RS-NI7-S",
+      "tipo": "RS"
+    },
+    {
+      "id_prefijo": "NI8_L",
+      "nombre": "Ni-28 Cuchillas y paletas Inco 713 — Limpio",
+      "prefijo": "RS-NI8-L",
+      "tipo": "RS"
+    },
+    {
+      "id_prefijo": "NI8_S",
+      "nombre": "Ni-28 Cuchillas y paletas Inco 713 — Sucio",
+      "prefijo": "RS-NI8-S",
+      "tipo": "RS"
+    },
+    {
+      "id_prefijo": "NI9_L",
+      "nombre": "Ni-28 Aros sólidos Inco 690 — Limpio",
+      "prefijo": "RS-NI9-L",
+      "tipo": "RS"
+    },
+    {
+      "id_prefijo": "NI9_S",
+      "nombre": "Ni-28 Aros sólidos Inco 690 — Sucio",
+      "prefijo": "RS-NI9-S",
+      "tipo": "RS"
+    },
+    {
+      "id_prefijo": "NI10_L",
+      "nombre": "Ni-28 Partes y piezas Ni200 — Limpio",
+      "prefijo": "RS-NI10-L",
+      "tipo": "RS"
+    },
+    {
+      "id_prefijo": "NI10_S",
+      "nombre": "Ni-28 Partes y piezas Ni200 — Sucio",
+      "prefijo": "RS-NI10-S",
+      "tipo": "RS"
+    },
+    {
+      "id_prefijo": "NI11_L",
+      "nombre": "Ni-28 Varilla Inco X-750 — Limpio",
+      "prefijo": "RS-NI11-L",
+      "tipo": "RS"
+    },
+    {
+      "id_prefijo": "NI11_S",
+      "nombre": "Ni-28 Varilla Inco X-750 — Sucio",
+      "prefijo": "RS-NI11-S",
+      "tipo": "RS"
+    },
+    {
+      "id_prefijo": "NI12_L",
+      "nombre": "Ni-28 Pernos pequeños Monel K500 — Limpio",
+      "prefijo": "RS-NI12-L",
+      "tipo": "RS"
+    },
+    {
+      "id_prefijo": "NI12_S",
+      "nombre": "Ni-28 Pernos pequeños Monel K500 — Sucio",
+      "prefijo": "RS-NI12-S",
+      "tipo": "RS"
+    },
+    {
+      "id_prefijo": "NI13_L",
+      "nombre": "Ni-28 Punta de oxicorte Monel K500 — Limpio",
+      "prefijo": "RS-NI13-L",
+      "tipo": "RS"
+    },
+    {
+      "id_prefijo": "NI13_S",
+      "nombre": "Ni-28 Punta de oxicorte Monel K500 — Sucio",
+      "prefijo": "RS-NI13-S",
+      "tipo": "RS"
+    },
+    {
+      "id_prefijo": "NI14_L",
+      "nombre": "Ni-25 Cable Reeda Alloy 400 — Limpio",
+      "prefijo": "RS-NI14-L",
+      "tipo": "RS"
+    },
+    {
+      "id_prefijo": "NI14_S",
+      "nombre": "Ni-25 Cable Reeda Alloy 400 — Sucio",
+      "prefijo": "RS-NI14-S",
+      "tipo": "RS"
+    },
+    {
+      "id_prefijo": "NI15_L",
+      "nombre": "Ni-28 Etapas NI Resist — Limpio",
+      "prefijo": "RS-NI15-L",
+      "tipo": "RS"
+    },
+    {
+      "id_prefijo": "NI15_S",
+      "nombre": "Ni-28 Etapas NI Resist — Sucio",
+      "prefijo": "RS-NI15-S",
+      "tipo": "RS"
+    },
+    {
+      "id_prefijo": "SS304_L",
+      "nombre": "Acero Inoxidable 304 — Limpio",
+      "prefijo": "RS-SS304-L",
+      "tipo": "RS"
+    },
+    {
+      "id_prefijo": "SS304_S",
+      "nombre": "Acero Inoxidable 304 — Sucio",
+      "prefijo": "RS-SS304-S",
+      "tipo": "RS"
+    },
+    {
+      "id_prefijo": "SS316_L",
+      "nombre": "Acero Inoxidable 316 — Limpio",
+      "prefijo": "RS-SS316-L",
+      "tipo": "RS"
+    },
+    {
+      "id_prefijo": "SS316_S",
+      "nombre": "Acero Inoxidable 316 — Sucio",
+      "prefijo": "RS-SS316-S",
+      "tipo": "RS"
+    },
+    {
+      "id_prefijo": "MBES",
+      "nombre": "Motores de bombas electrosumergibles",
+      "prefijo": "RS-MBES",
+      "tipo": "RS"
+    },
+    {
+      "id_prefijo": "SBES",
+      "nombre": "Sellos de bombas electrosumergibles",
+      "prefijo": "RS-SBES",
+      "tipo": "RS"
+    },
+    {
+      "id_prefijo": "ANGFE",
+      "nombre": "Ángulos en hierro (chatarra común)",
+      "prefijo": "RS-ANGFE",
+      "tipo": "RS"
+    },
+    {
+      "id_prefijo": "CBREEA",
+      "nombre": "Cable Reeda sin procesar",
+      "prefijo": "RS-CBREEA",
+      "tipo": "RS"
+    },
+    {
+      "id_prefijo": "FEAUTO",
+      "nombre": "Bloques de motor / volantes / cigüeñales",
+      "prefijo": "RS-FEAUTO",
+      "tipo": "RS"
+    },
+    {
+      "id_prefijo": "ALAUTO",
+      "nombre": "Partes de motor en aluminio",
+      "prefijo": "RS-ALAUTO",
+      "tipo": "RS"
+    }
+  ],
+  "tipos": ["Bodega", "RS"],
+  "unidades": ["unidades", "kilos", "pallet"]
+}

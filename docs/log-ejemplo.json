@@ -1,0 +1,44 @@
+[
+  {
+    "fecha_utc": "2026-10-19T15:00:00.000Z",
+    "nivel": "info",
+    "servicio": "externalclientes",
+    "ambiente": "production",
+    "evento": "HTTP_COMPLETADA",
+    "correlation_id": "ba56f10c-506f-48ab-87d9-58097f44f015",
+    "metodo": "GET",
+    "ruta": "/api/auth/me",
+    "http_status": 200,
+    "duracion_ms": 18,
+    "ip": "192.0.2.10",
+    "usuario_id": "12",
+    "cliente_id": "4",
+    "sesion_id": "31"
+  },
+  {
+    "fecha_utc": "2026-10-19T15:01:00.000Z",
+    "nivel": "warn",
+    "servicio": "externalclientes",
+    "ambiente": "production",
+    "evento": "HTTP_ERROR",
+    "correlation_id": "d0eab628-1504-416e-b3c8-79ae9a4fc6c2",
+    "metodo": "POST",
+    "ruta": "SIN_RUTA",
+    "http_status": 400,
+    "codigo": "CLAVE_NO_PERMITIDA",
+    "error_tipo": "AppError"
+  },
+  {
+    "fecha_utc": "2026-10-19T15:02:00.000Z",
+    "nivel": "error",
+    "servicio": "externalclientes",
+    "ambiente": "production",
+    "evento": "HTTP_ERROR",
+    "correlation_id": "908f0344-6ca5-4b7e-81d3-25a166a7311a",
+    "metodo": "POST",
+    "ruta": "/api/auth/login",
+    "http_status": 500,
+    "codigo": "ERROR_INTERNO",
+    "error_tipo": "SequelizeDatabaseError"
+  }
+]

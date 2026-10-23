@@ -1,0 +1,38 @@
+{
+  "name": "externalclientes",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Identidades externas y autogestión de clientes Fastway",
+  "main": "src/server.js",
+  "type": "commonjs",
+  "engines": {
+    "node": "24.22.0"
+  },
+  "scripts": {
+    "node": "node scripts/node.js",
+    "start": "node scripts/node.js src/server.js",
+    "dev": "node scripts/node.js --watch src/server.js",
+    "db:check": "node scripts/node.js scripts/check-database.js",
+    "test": "node scripts/node.js --test test/unit.test.js test/security.test.js test/operations.test.js test/reception.test.js test/operation-changes.test.js",
+    "test:operations": "node scripts/node.js --test test/operations.test.js test/operations.integration.test.js test/routes.test.js test/product-validation.test.js test/precarga-validation.test.js test/inventory.test.js test/product-catalog.test.js test/scheduled-operations.test.js test/reception.test.js test/operation-changes.test.js",
+    "test:movements": "node scripts/node.js --test test/movements.test.js test/routes.test.js test/operations.integration.test.js",
+    "test:documents": "node scripts/node.js --test test/documents.test.js test/routes.test.js test/operations.integration.test.js",
+    "test:integration": "node scripts/node.js --test --test-concurrency=1 test/integration.test.js",
+    "db:migrate:operation-changes": "node scripts/node.js scripts/migrate-operation-changes.js"
+  },
+  "overrides": {
+    "sequelize": {
+      "uuid": "11.1.1"
+    }
+  },
+  "dependencies": {
+    "cors": "2.8.5",
+    "dotenv": "16.5.0",
+    "express": "5.1.0",
+    "express-rate-limit": "7.5.0",
+    "helmet": "8.1.0",
+    "jsonwebtoken": "9.0.3",
+    "mysql2": "3.24.6",
+    "sequelize": "6.37.8"
+  }
+}

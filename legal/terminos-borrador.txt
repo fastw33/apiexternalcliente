@@ -1,0 +1,57 @@
+BORRADOR PARA REVISIÓN — NO PUBLICADO NI VIGENTE
+Clients Fastway — Términos de uso y autorización de tratamiento de datos
+Versión propuesta: 1.0
+
+Datos por completar antes de publicar:
+Responsable y operador: fastwaysas (razón social suministrada, por confirmar contra registro mercantil).
+NIT suministrado: 900756702 (confirmar formato y dígito de verificación).
+Dirección: [PENDIENTE DIRECCIÓN]
+Teléfono: [PENDIENTE TELÉFONO]
+Correo de atención y protección de datos: [PENDIENTE CORREO]
+Política completa de tratamiento: [PENDIENTE URL POLÍTICA]
+Fecha de entrada en vigencia: [PENDIENTE FECHA]
+Períodos y criterios de conservación: [PENDIENTE POLÍTICA DE CONSERVACIÓN]
+Proveedores de alojamiento y países de tratamiento: [PENDIENTE IDENTIFICAR]
+
+1. Acceso y alcance
+Clients Fastway permite a empresas previamente vinculadas consultar información propia y presentar solicitudes logísticas según los módulos habilitados. Innovación crea las cuentas de personas autorizadas; no existe registro libre. La cuenta es individual e intransferible. El usuario debe cambiar la contraseña temporal, mantenerla reservada y reportar accesos sospechosos. La aceptación personal no demuestra por sí sola representación legal de la empresa cliente.
+
+2. Información y responsabilidades
+El cliente debe aportar información exacta, actualizada y lícita, y verificar productos, cantidades y documentos antes de enviar. Solo debe cargar datos de terceros cuando tenga facultad y base jurídica para suministrarlos. Debe evitar documentos personales innecesarios y datos sensibles. La empresa puede solicitar correcciones o rechazar solicitudes incompletas, dejando trazabilidad y un canal de atención.
+
+3. Operaciones de bodega
+Una solicitud enviada no confirma recepción, preparación, disponibilidad de transporte ni salida física. Estas requieren validación y actuación del personal interno. El portal informará estados y diferencias. El alistamiento exige la anticipación mínima configurada e informada al solicitarlo; no habilita recogida inmediata. Los aplazamientos, cancelaciones, entregas parciales y diferencias se tramitan conforme al estado real y al contrato de servicio. El acceso al portal fuera del horario operativo no implica atención inmediata de bodega.
+
+4. Custodia y uso de la información
+fastwaysas administra y custodia la información necesaria para prestar el servicio, aplicar controles de seguridad y conservar trazabilidad. La información comercial aportada por el cliente mantiene sus derechos de origen; los titulares conservan sus derechos sobre los datos personales. La empresa no adquiere propiedad ilimitada sobre esa información por alojarla. Su utilización se limita a fines informados, obligaciones aplicables e instrucciones contractuales legítimas. La plataforma, su marca y su software pertenecen a sus respectivos titulares y se otorga únicamente acceso de uso autorizado.
+
+5. Confidencialidad y seguridad
+Se aplicarán medidas técnicas, humanas y administrativas apropiadas para restringir accesos, proteger credenciales y prevenir pérdida, alteración o divulgación indebida. El personal y los proveedores autorizados accederán según sus funciones y obligaciones de confidencialidad. No se promete seguridad absoluta ni se excluyen responsabilidades legales por fallas atribuibles a la empresa. Los incidentes se atenderán y comunicarán según las obligaciones aplicables.
+
+6. Tratamiento de datos personales
+Responsable: la empresa identificada al inicio para la administración de cuentas y seguridad del portal. Datos previstos: nombre y contacto corporativo, vínculo con el cliente, credenciales protegidas, IP, navegador, dispositivo registrado, solicitudes y evidencia de aceptación. Finalidades: habilitar y verificar accesos, atender operaciones y consultas, prevenir abuso y conservar evidencia de las actuaciones. No se solicitan datos sensibles ni de menores para este acceso. No se incluye autorización para publicidad, venta de bases ni perfiles comerciales.
+
+Cuando documentos del cliente contengan datos de terceros, se definirán contractualmente las funciones de responsable y encargado y las instrucciones de tratamiento. Los proveedores técnicos solo podrán tratar la información autorizada para prestar el servicio. El alojamiento, transmisiones o transferencias internacionales, si aplican, deben identificarse y cumplir sus requisitos legales antes de realizarlas. La información se conservará por los períodos definidos en la política y por obligaciones legales o contractuales justificadas, con eliminación o anonimización cuando proceda.
+
+7. Derechos y atención
+El titular puede conocer, actualizar y rectificar sus datos, pedir prueba de autorización e información sobre su uso, y solicitar revocatoria o supresión en los casos procedentes. Puede consultar gratuitamente su información personal y acudir a la SIC después de agotar el trámite aplicable ante el responsable. Las consultas y reclamos se reciben en el canal indicado al inicio y se tramitan en los términos legales. El cierre del acceso no elimina los canales para ejercer estos derechos. La política completa debe permanecer disponible antes de solicitar autorización.
+
+8. Restricción o suspensión de acceso
+La empresa podrá negar nuevas habilitaciones o suspender accesos por falta de vínculo vigente, solicitud de un representante autorizado, suplantación, información falsa, uso ilícito, incumplimiento relevante o riesgos de seguridad comprobables. La medida debe ser proporcional, documentarse y permitir contacto para aclaraciones; una urgencia de seguridad puede exigir bloqueo inmediato. Se respetarán las obligaciones sobre mercancías, documentación, contratos y derechos legales. La suspensión del portal no extingue esas obligaciones ni autoriza retenciones injustificadas. No se establece una facultad arbitraria de exclusión o renuncia general de derechos.
+
+9. Disponibilidad y cambios
+Podrán existir mantenimientos o interrupciones. Se informarán los canales alternativos y los cambios relevantes cuando sea posible. Los términos no sustituyen el contrato logístico ni modifican retroactivamente operaciones realizadas. Cada nueva publicación conservará su versión anterior y requerirá aceptación expresa para continuar operando; el silencio o continuar navegando no equivalen a aceptar.
+
+10. Confirmaciones separadas en pantalla
+Casilla 1, inicialmente desmarcada: «He leído y acepto los términos de uso de Clients Fastway, versión mostrada».
+Casilla 2, inicialmente desmarcada: «He leído la política y autorizo a la empresa responsable identificada a tratar mis datos para la gestión del acceso, seguridad y operaciones descritas, con los derechos y canales informados».
+El servidor guardará la versión exacta, su huella SHA-256, usuario, empresa cliente, sesión, dispositivo, IP y fecha UTC; la interfaz mostrará la hora de Colombia. Esta evidencia registra la manifestación del usuario y no demuestra por sí sola identidad física o representación empresarial. Si no acepta, podrá cerrar sesión y contactar a la empresa por los canales alternativos.
+
+NOTAS PARA REVISIÓN INTERNA — NO FORMARÁN PARTE DEL TEXTO PUBLICADO
+Completar los campos y confirmar la identidad jurídica, política, retención, proveedores y canales reales. Obtener revisión jurídica antes de publicación. La aceptación en primer ingreso no regulariza tratamientos previos: Innovación debe verificar la información y la base jurídica necesarias antes del alta. Este borrador no sustituye la política completa, los contratos de tratamiento ni una revisión de cumplimiento.
+
+Referencias oficiales consultadas el 19 de octubre de 2026:
+Ley 1581 de 2012: https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=49981
+Políticas de tratamiento y Decreto 1074 de 2015: https://sedeelectronica.sic.gov.co/publicaciones/boletin-juridico/concepto/politicas-de-tratamiento-de-datos-personales
+Autorización previa, expresa e informada: https://sedeelectronica.sic.gov.co/publicaciones/boletin-juridico/concepto/para-el-adecuado-tratamiento-de-los-datos-es-indispensable-la-autorizacion-expresa-previa-e-informada
+Cláusulas abusivas: https://www.sic.gov.co/noticias/rnpc/como-reconocer-las-clausulas-abusivas-y-proteger-sus-derechos

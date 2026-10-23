@@ -1,0 +1,25 @@
+-- Solicitudes de cambio y decisiones; no contiene ni modifica saldos de inventario.
+CREATE TABLE IF NOT EXISTS `operacion_cambios` (
+  `id` BIGINT UNSIGNED NOT NULL AUTO_INCREMENT,
+  `public_id` CHAR(36) CHARACTER SET ascii COLLATE ascii_bin NOT NULL,
+  `request_id` CHAR(36) CHARACTER SET ascii COLLATE ascii_bin NOT NULL,
+  `cliente_id` BIGINT UNSIGNED NOT NULL,
+  `solicitud_id` BIGINT UNSIGNED NOT NULL,
+  `tipo` ENUM('CANCELAR','REPROGRAMAR','CORREGIR') NOT NULL,
+  `estado` ENUM('SOLICITADO','EN_PROCESO','APLICADO','RECHAZADO','CONCILIAR') NOT NULL DEFAULT 'SOLICITADO',
+  `datos` JSON NOT NULL,
+  `motivo` VARCHAR(1000) NOT NULL,
+  `peticion_sha256` BINARY(32) NOT NULL,
+  `creado_por_actor_id` BIGINT UNSIGNED NOT NULL,
+  `decidido_por_actor_id` BIGINT UNSIGNED NULL,
+  `motivo_decision` VARCHAR(1000) NULL,
+  `creado_at` DATETIME(6) NOT NULL DEFAULT CURRENT_TIMESTAMP(6),
+  `decidido_at` DATETIME(6) NULL,
+  PRIMARY KEY (`id`),
+  UNIQUE KEY `uq_operacion_cambio_public` (`public_id`),
+  UNIQUE KEY `uq_operacion_cambio_request` (`cliente_id`,`creado_por_actor_id`,`request_id`),
+  KEY `ix_operacion_cambio_solicitud` (`cliente_id`,`solicitud_id`,`estado`),
+  CONSTRAINT `fk_operacion_cambio_solicitud` FOREIGN KEY (`cliente_id`,`solicitud_id`) REFERENCES `solicitudes` (`cliente_id`,`id`) ON DELETE RESTRICT,
+  CONSTRAINT `fk_operacion_cambio_actor` FOREIGN KEY (`creado_por_actor_id`) REFERENCES `actores` (`id`) ON DELETE RESTRICT,
+  CONSTRAINT `fk_operacion_cambio_decisor` FOREIGN KEY (`decidido_por_actor_id`) REFERENCES `actores` (`id`) ON DELETE RESTRICT
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
